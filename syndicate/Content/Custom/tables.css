@@ -1,0 +1,16 @@
+﻿.Ctable {
+    width:100%;
+    border-spacing: 1em;
+    margin: 1rem auto;
+    border-collapse: separate;
+}
+
+    .Ctable td {
+        padding: 1rem 1.2rem;
+        border-radius: 10px;
+        border: 1px solid red;
+
+      
+    }
+
+
